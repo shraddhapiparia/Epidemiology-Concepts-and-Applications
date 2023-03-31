@@ -11,14 +11,18 @@ Evaluate both existing and newly developed preventive measures and modes of heal
 Provide foundation for developing public health policy
 
 ## Goals
-Identify the etiology/cause of the disease and relevant risk factors
-Determine the extent of the disease in the population
+1. Identify the etiology/cause of the disease and relevant risk factors
+
+2. Determine the extent of the disease in the population
 	- Assess the disease burden, identify subgroups and develop surveillance methods
-Study the natural history and prognosis of the disease
+
+3. Study the natural history and prognosis of the disease
 	- Determine severity, lethality, duration and survivorship
-Evaluate both existing and newly developed preventive measures and modes of health care delivery
+
+4. Evaluate both existing and newly developed preventive measures and modes of health care delivery
 	- Identify optimal treatment methods
-Provide foundation for developing public health policy
+	
+5. Provide foundation for developing public health policy
 	- Assess and moderate impact on environment & other populations
 
 ## Areas of study
@@ -62,6 +66,7 @@ Today, epidemiology continues to evolve, with an increased focus on global healt
 
 •	Epidemic disease
 	- The occurrence of disease in a community or region, clearly in excess of normal expectancy and derived from a common or propagated source
+
 •	Pandemic Disease
 	- Worldwide epidemic
 
