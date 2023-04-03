@@ -21,6 +21,26 @@ Incidence, on the other hand, refers to the rate at which new cases of a disease
 
 Prevalence = Incidence X Duration
 
+## Low incidence and long duration
+
+Incidence: Low Risk N = 4/yr.
+ 
+Duration: Long 25 Yrs.
+
+(25 x 4) Prevalence
+
+From the given information, we can infer that there are low numbers of new cases occurring per year, with only 4 new cases occurring each year (N = 4/yr). This suggests a low incidence rate for the condition being studied. However, the duration of the condition is long, spanning 25 years. Therefore, while the incidence rate is low, the prevalence rate (total number of cases in the population at a given time) may be high due to the extended period of time during which the condition persists.
+
+## High incidence and short duration
+
+Incidence: High Risk N = 20/yr.
+ 
+Duration: Short 3 Yrs.
+ 
+
+(20 X 3) Prevalence
+
+This information implies that the disease is spreading rapidly and affecting a significant proportion of the population over a short period of time. The high incidence rate also suggests that there may be a high risk of transmission or exposure to the disease, and appropriate measures should be taken to control or prevent its spread.
 
 # Differences between prevalence and incidence, and when each measure is appropriate to use
 
