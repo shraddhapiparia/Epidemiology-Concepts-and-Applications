@@ -109,7 +109,7 @@ STEPS IN CONDUCTING THIS STUDY:
 | Inexpensive     | Natural history 	| Uses records	  | 
 | Large samples   | Attrition			| Small samples   |
 | Exploratory     | Expensive    		| Matched controls|
-				  | Calculate incidence | Quick / Bias	  |
+|   			  | Calculate incidence | Quick / Bias	  |
 
 
 
