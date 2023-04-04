@@ -55,7 +55,7 @@ Population Attributable Risk (also known as etiologic fraction) is the measure o
 
 $$\mathrm{Population Attributable Risk} = \frac{\text{Incidence in total population} - \text{Incidence in unexposed population}}{\text{Incidence in total population}}$$
 
-## Case-contorl Studies 
+## Case-control Studies 
 
 Begin with persons who have the disease of interest.
 
