@@ -49,11 +49,28 @@ Prevalence is appropriate to use when the goal is to understand the burden of a 
 Incidence, on the other hand, is appropriate to use when the goal is to understand the risk of developing a disease in a population over time. It is useful in determining the rate at which new cases of a disease are occurring in a population and can provide insight into the underlying causes and risk factors associated with the disease. Incidence can also be used to track changes in the occurrence of a disease over time and to evaluate the effectiveness of public health interventions in reducing the incidence of a disease.
 
 
-# Factors that influence disease prevalence and incidence, such as age, sex, and geographic location
+# Factors that influence disease prevalence and incidence
+
+There are several factors that influence prevalence and incidence some of which includes age, sex, geographic location, genetics, environmental factors, and lyfestyle factors.
 
 
 # Use of prevalence and incidence to describe disease burden and trends over time
 
+The prevalence of a disease provides information about the overall burden of the disease in a population. For example, a high prevalence of a disease suggests that a large number of people in the population are affected by the disease, which can have significant implications for healthcare services, public health policy, and the economy. Prevalence can also be used to track changes in disease burden over time, such as increases or decreases in the number of cases.
+
+Incidence, on the other hand, provides information about the rate at which new cases of a disease are occurring in a population. This can be useful for identifying risk factors for the disease, as well as for predicting future trends in disease burden. For example, if the incidence of a disease is increasing over time, this may indicate that there are environmental or lifestyle factors contributing to the rise in cases.
+
 
 # Limitations and challenges associated with measuring disease prevalence and incidence
 
+Diagnostic criteria: The accuracy of disease prevalence and incidence estimates can be affected by the diagnostic criteria used to identify cases of the disease. If the criteria are too broad or too narrow, this can lead to overestimates or underestimates of disease burden.
+
+Reporting bias: Prevalence and incidence estimates can also be affected by reporting bias, which occurs when individuals do not report symptoms or seek medical care for a disease. This can lead to underestimates of disease burden. More complicated diseases have asymptomatic presence too.
+
+Data availability: In some cases, data on disease prevalence and incidence may not be readily available, particularly in low- and middle-income countries where surveillance systems may be limited.
+
+Changes in disease definition: Changes in the definition or classification of a disease over time can also affect prevalence and incidence estimates. For example, the criteria for diagnosing autism spectrum disorder have changed over time, which has led to changes in prevalence estimates.
+
+Population migration: Prevalence and incidence estimates can also be affected by population migration. If individuals move to or from an area with a high disease burden, this can affect estimates of disease prevalence and incidence in both the origin and destination areas.
+
+Comorbidity: When a person has more than one disease, it can be difficult to accurately estimate the prevalence and incidence of each disease separately.
