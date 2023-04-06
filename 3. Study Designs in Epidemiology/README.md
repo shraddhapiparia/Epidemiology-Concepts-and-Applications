@@ -51,7 +51,17 @@ $$\mathrm{Relative Risk} = \frac{\text{Prevalence of disease in exposed}}{\text{
 
 $$\mathrm{Risk Difference} = \text{Prevalence of disease in exposed} - \text{Prevalence of disease in unexposed}$$
 
-Population Attributable Risk (also known as etiologic fraction) is the measure of reduction in the incidence of the disease that can be expected if we eliminate the risk factor.
+Attributable risk (AR) is the proportion of disease incidence that can be attributed to a specific exposure. In other words, it estimates the proportion of disease cases in the exposed group that would not have occurred if the exposure had been absent. AR is calculated as the difference in disease incidence between the exposed and unexposed groups.
+
+Population attributable risk (PAR) is the proportion of disease incidence in the population that can be attributed to a specific exposure. It estimates the proportion of disease cases in the entire population that would not have occurred if the exposure had been absent. PAR takes into account both the prevalence of the exposure and the strength of its association with the disease.
+
+To illustrate the difference between AR and PAR, consider a study investigating the association between smoking and lung cancer. The study finds that smokers have a 10 times higher risk of lung cancer than non-smokers, and that 25% of the study population smokes.
+
+The attributable risk of lung cancer due to smoking in this study would be 90%, meaning that 90% of lung cancer cases in smokers can be attributed to smoking (i.e., if smoking had been absent, 90% of lung cancer cases in smokers would not have occurred).
+
+The population attributable risk of lung cancer due to smoking in this study would be 22.5%, meaning that 22.5% of all lung cancer cases in the study population can be attributed to smoking (i.e., if smoking had been absent, 22.5% of all lung cancer cases in the population would not have occurred).
+
+Population Attributable Risk (also known as etiologic fraction) is the measure of reduction in the incidence of the disease in the entire population that can be expected if we eliminate the risk factor.
 
 $$\mathrm{Population Attributable Risk} = \frac{\text{Incidence in total population} - \text{Incidence in unexposed population}}{\text{Incidence in total population}}$$
 
