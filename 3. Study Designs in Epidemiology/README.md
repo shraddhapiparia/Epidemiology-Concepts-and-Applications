@@ -122,7 +122,7 @@ STEPS IN CONDUCTING THIS STUDY:
 |   			  | Calculate incidence | Quick / Bias	  |
 
 
-
+## TODO:
 Strengths and weaknesses of each study design, and when each is appropriate to use
 Key elements of study design, such as sampling methods, measurement of exposure and outcome, and control of confounding and bias
 Ethical considerations in epidemiological research, such as informed consent, privacy, and protection of human subjects
