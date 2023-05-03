@@ -36,11 +36,27 @@ From the given information, we can infer that there are low numbers of new cases
 Incidence: High Risk N = 20/yr.
  
 Duration: Short 3 Yrs.
- 
 
 (20 X 3) Prevalence
 
 This information implies that the disease is spreading rapidly and affecting a significant proportion of the population over a short period of time. The high incidence rate also suggests that there may be a high risk of transmission or exposure to the disease, and appropriate measures should be taken to control or prevent its spread.
+
+# Problems with incidence and prevalence measurements
+
+## Problems with numerator
+
+1. Defining who has the disease: Prevalence estimate is significantly affected by the set of criteria used hence expert groups sets of diagnostic criteria.
+
+2. How to find cases: Ascertaining which persons shoul be included in denominator. Use regularly available data or specifically design interviews from participants. Some problems associated with interviews include:
+
+2a. Problems in diagnosis such as asymptomatic participants, symptomatic participant with no medical attention hence may not know the name of the disease, symptomatic participant with medical attention but diagnosis has not been made or conveyed or participant may have misunderstood, and the participant may not accurately recall an episode of event or illness and exposures related to illness.
+
+2b. Problems associated with participants such as the participant may have involved in litigation about the illness and may choose not to respond or alter their response, the participant may be reluctant to provide accurate information if they have concerns that certain responses may not please the interviewer and if participant is too ill to respond and is not included in the interview or a surrogate is interviewed who may have ncomplete information about the illness.
+
+2c. Problems associated with interviewers include that participants may provide the information but interviewer may not record it or may record it incorrectly, the interviewer may ask the question incorrectly, the interviewer maybe biased by knowing the hypothesis being tested and may probe more intensively in one group of participants than in another.
+
+
+
 
 # Differences between prevalence and incidence, and when each measure is appropriate to use
 
