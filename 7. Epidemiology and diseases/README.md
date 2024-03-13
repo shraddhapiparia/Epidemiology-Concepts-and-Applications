@@ -1,4 +1,5 @@
-# epidemiology of infectious diseases [Yet to be updated]
+# [Yet to be updated]
+# epidemiology of infectious diseases 
 Characteristics of infectious diseases, including their pathogenesis, clinical features, and epidemiology
 Modes of transmission of infectious diseases, such as direct and indirect contact, airborne, and vector-borne
 Epidemiological tools and methods used in infectious disease surveillance and outbreak investigation, such as case definitions, laboratory testing, and contact tracing
